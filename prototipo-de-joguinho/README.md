@@ -67,7 +67,7 @@ Constituição: 80
 
 Time dos Com Camisa.
 
-toString: M
+Peça: M
 
 ### Claudinho:
 
@@ -101,6 +101,8 @@ Inteligência: 3
 
 Constituição: 40
 
+Peça: B
+
 Time dos Com Camisa.
 
 ### Carlinhos:
@@ -119,7 +121,7 @@ Constituição: 70
 
 Falha ao ressurgir das cinzas.
 
-toString: C
+Peça: C
 
 Time dos Sem Camisa.
 
@@ -135,7 +137,7 @@ Agilidade: 4
 
 Inteligência: 1
 
-Constituição inicial: 30
+Constituição: 30
 
 Peça: R
 
@@ -175,7 +177,7 @@ Constituição: 45
 
 Toma 2 de dano ao amadurecer.
 
-toString: L
+Peça: L
 
 Time dos Sem Camisa.
 
