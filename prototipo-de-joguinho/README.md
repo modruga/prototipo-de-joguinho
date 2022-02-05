@@ -1,8 +1,11 @@
 # Protótipo de Joguinho
 
-Um teste que consiste em criar um jogo de tabuleiro com regras programadas em conjunto aos pilares da OO.
+Um teste realizado em processo seletivo que consiste em criar um jogo de tabuleiro com regras programadas em conjunto aos pilares da OO.
 
-Avalia os conhecimentos gerais de conceitos (pilares) de orientação a objetos e cobertura de testes unitários (JUnit4).
+Esse enunciado foi **MUITO** alterado para evitar qualquer tipo de cola e/ou uso indevido. Nem tentem! Mesmo que saibam de onde é o teste, a lógica interna
+do enunciado foi alterada e isso resultará em você colando de um enunciado completamente nada a ver com nada.
+
+Nessa prova foram avaliados os conhecimentos gerais de conceitos (pilares) de orientação a objetos e cobertura de testes unitários (JUnit4).
 
 ## Bonecos:
 
